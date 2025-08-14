@@ -1,0 +1,7 @@
+C:\Users\MY\source\repos\DictionariesApp\DictionariesApp\bin\Release\DictionariesApp.exe.config
+C:\Users\MY\source\repos\DictionariesApp\DictionariesApp\bin\Release\DictionariesApp.exe
+C:\Users\MY\source\repos\DictionariesApp\DictionariesApp\bin\Release\DictionariesApp.pdb
+C:\Users\MY\source\repos\DictionariesApp\DictionariesApp\obj\Release\DictionariesApp.csproj.AssemblyReference.cache
+C:\Users\MY\source\repos\DictionariesApp\DictionariesApp\obj\Release\DictionariesApp.csproj.CoreCompileInputs.cache
+C:\Users\MY\source\repos\DictionariesApp\DictionariesApp\obj\Release\DictionariesApp.exe
+C:\Users\MY\source\repos\DictionariesApp\DictionariesApp\obj\Release\DictionariesApp.pdb
