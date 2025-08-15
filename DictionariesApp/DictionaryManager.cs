@@ -114,7 +114,7 @@ namespace DictionariesApp
         {
             Console.Write("Enter the type of dictionary (e.g., English-German): ");
             string type = Console.ReadLine()?.Trim();
-            if (type == null)
+            if (type == string.Empty)
             {
                 Console.WriteLine("Dictionary type cannot be empty!");
                 Pause();
